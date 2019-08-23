@@ -6,7 +6,7 @@ You can find it here (near the bottom).
 
 http://www.fourwalledcubicle.com/LUFA.php
 
-When you unzip the file, you will get a directory structure that looks starts:
+When you unzip the file, you will get a directory structure that tarts:
 
 lufa-LUFA-version/
 
